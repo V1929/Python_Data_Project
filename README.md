@@ -108,7 +108,7 @@ Data Analyst:
 
 - Average salary: around $85,000.
 Variability exists, with some Data Analysts earning on par with Data Scientists, especially if they bring niche skills or work in high-demand industries.
-Generally involves fewer responsibilities, which can be appealing for gaining foundational experience with less pressure.
+Generally, involves fewer responsibilities, which can be appealing for gaining foundational experience with less pressure.
 
 Data Engineer / Senior Data Analyst:
 
