@@ -188,7 +188,7 @@ plt.show()
 ```
 #### The Results
 
-![ALT TEXT](3_Project\images\Optimized_Skills.png)*Scatter plot visualizing the most optimal skills per salary*
+![Alt text](3_Project\images\Optimized_Skills.png)*Scatter plot visualizing the most optimal skills per salary*
 
 #### Key Insights:
 Data Analyst Positioning: 
