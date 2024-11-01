@@ -78,7 +78,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
 #### Results
-![Salary Distributions of Data analysis Roles in the US](3_Project\images\BNW_Roles_Compensation.png)*Box-N-Wisker visualizing top 6 data jobs.*
+![Alt text](3_Project\images\BNW_Roles_Compensation.png)*Box-N-Wisker visualizing top 6 data jobs.*
 
 #### Insights
 When considering a career in data analysis, potential compensastion for applicable skills utilized, and longevity in the field always appreciated.
