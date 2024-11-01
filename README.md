@@ -205,10 +205,10 @@ Data Analyst Positioning:
 
 ## The Summary
 
-- Data Analysis Career Summary: Skills, Roles, and Salaries
+Data Analysis Career Summary: Skills, Roles, and Salaries
 Core Skills: Python, SQL, Tableau, Power BI, and Excel are essential for data analysis roles, with Python and SQL standing out for versatility and demand across the industry.
 
-Roles:
+## Roles:
 
 - Data Analyst: Focuses on data interpretation and reporting; serves as an entry point for many data professionals.
 - Data Scientist: Incorporates machine learning and advanced analytics, offering higher compensation.
@@ -221,7 +221,7 @@ Roles:
 - Data Scientist/Data Engineer: ~$130,000 median, reflecting advanced skill requirements.
 - Senior roles: Significant salary increases, often with wide variability.
 - 
-- Conclusion:
+## Conclusion:
 -  For career growth and optimal compensation in data analysis, prioritizing core skills like Python, SQL, and data visualization is essential. These skills provide flexibility and value across roles, especially when progressing toward specialized or senior positions.
 
 
