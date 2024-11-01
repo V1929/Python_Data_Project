@@ -83,7 +83,7 @@ plt.show()
 #### Insights
 When considering a career in data analysis, potential compensastion for applicable skills utilized, and longevity in the field always appreciated.
 
-The compensation structure across data roles, we observe indicates a logical increase in salaries as experience and role seniority progress, though the desired job role does not necessarily guarantee the highest salary.
+The compensation structure across data roles, we observe indicates a logical increase in salaries as experience and role seniority progress. The desired job role does not necessarily guarantee the highest salary.
 
 Starting with Data Analysts, the average annual compensation is around $85,000. However, some Data Analysts report salaries that match or even exceed those of Data Scientists. 
 
