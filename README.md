@@ -85,7 +85,7 @@ When considering a career in data analysis, potential compensastion for applicab
 
 The compensation structure across data roles, we observe indicates a logical increase in salaries as experience and role seniority progress. The desired job role does not necessarily guarantee the highest salary.
 
-Starting with Data Analysts, the average annual compensation is around $85,000. However, some Data Analysts report salaries that match or even exceed those of Data Scientists. 
+With Data Analyst as a basis, that average annual compensation is around $85,000. However, some Data Analysts have reported salaries that match or even exceed those of Data Scientists. 
 
 Data Engineer and Senior Data Analyst positions show higher median incomes, though some outliers in compensation align closely with Data Analyst salaries. The higher compensation in these roles also reflects greater experience and the application of more advanced skills, leaning toward development immersion. Interestingly, while Data Analyst roles have lower salaries, they generally involve fewer responsibilities, allowing skill development without as much pressure.
 
@@ -129,7 +129,7 @@ It’s interesting to note the pattern with Microsoft Office tools (Excel, Power
 
 The data suggests a clear action plan: prioritize deepening expertise in Python, SQL, and data visualization tools. These foundational, high-demand skills create a strong basis for many advanced roles and help position you competitively in the job market, both in terms of employability and earning potential.
 
-### The Ananlysis to Support the Claim
+### The Analysis to Support the Claim
 
 #### Visualize the data.
 
@@ -144,7 +144,7 @@ ax[1].legend().remove()
 plt.show()
 ```
 
-![The Highest Paid and Most In-Demand Skills for Data Analyst](3_Project\images\DA_Starting_Pt.png)*Two bar graphs to visualize the compensation to skill and most in-demand skills*
+![Alt text](3_Project\images\DA_Starting_Pt.png)*Two bar graphs to visualize the compensation to skill and most in-demand skills*
 
 ### What the Charts indicate.
 
