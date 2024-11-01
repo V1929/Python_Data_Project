@@ -13,7 +13,7 @@ To find the most demanded skills for the top 3 most popular data roles, I filter
 
 View my notebook with details here: [2_Skills_Count.ipynb](3_Project\2_Skills_Count.ipynb)
 
-### Visulaizing the data
+## Visulaizing the data
 
 ## 2. Let's look at some code for visualizing data.
 
@@ -30,12 +30,12 @@ This is the sequunce of the code to present the data in the horizontal bar chart
         ax[i].set_xlim(0, 78)
 ```
 
-### Results
+## Results
 
 ## 3. The Visual
 ![Alt text](3_Project/images/skills_demand_top_5_per_role.png)
 
-### Insights
+## Insights
 
 ## 4. The Skills and Tools.
 
@@ -47,9 +47,9 @@ This is the sequunce of the code to present the data in the horizontal bar chart
 - Visualizing data through python is accomplished throught the tools of matplotlib and Seaborn. Tableau takes the functionality of those tools  but alamalagates the processing of data into visualizations useful in statistical analysis, and business intelligence. 
 -Excel is used in virtually all data analytics professions. Useful for data organization, data analysis,data visualization, and presentations.
 
-### How are in-demand skills trending for Data Analysts
+## How are in-demand skills trending for Data Analysts
 
-### Visualize the data by useful code.
+## Visualize the data by useful code.
 
 ```python
 from matplotlib.ticker import PercentFormatter
@@ -62,10 +62,10 @@ plt.gca().yaxis.set_major_formatter(PercentFormatter(decimals=0))
 plt.show()
 ```
 
-### The Results Visually
+## The Results Visually
 ![Alt text](3_Project/images/Top_Skills_Trends.png)
 
-### Insights
+## Insights
 - SQL consistently has the highest demand, with over 50% likelihood in job postings. However, there's a gradual decline in demand. This might suggest a slight shift in emphasis or an increase in complementary skills.
 - Excel will always maintain a steady demand. However, as noted above, a complementary skill, although this indicates a renewed and steady emphasis on Excel skills.
 - Both Python and Tableau show consistent demand. This suggests stable importance for Python programming and data visualization skills in data analyst roles.
@@ -73,9 +73,9 @@ plt.show()
 
 ## 5. How well do the Skills Level correlate to Compensation
 
-### Salary Analysis for Data Analysts
+## Salary Analysis for Data Analysts
 
-#### Visualize the data.
+## Visualize the data.
 ```python
 sns.boxplot(data=dfj_US_top6, x='salary_year_avg', y='job_title_short', order=job_order)
 sns.set_theme(style='ticks')
@@ -84,10 +84,10 @@ ticks_x = plt.FuncFormatter(lambda y, pos: f'${int(y/1000)}K')
 plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
-#### Results
+## Results
 ![Alt text](3_Project/images/BNW_Roles_Compensation.png)*Box-N-Wisker visualizing top 6 data jobs.*
 
-#### Insights
+## Insights
 When considering a career in data analysis, potential compensastion for applicable skills utilized, and longevity in the field always appreciated.
 
 The compensation structure across data roles, we observe indicates a logical increase in salaries as experience and role seniority progress. The desired job role does not necessarily guarantee the highest salary.
@@ -102,7 +102,7 @@ Overall, median salaries increase with both seniority and specialization, but th
 
 Senior roles, such as Senior Data Scientist and Senior Data Engineer, not only command higher median salaries but also exhibit greater variability in earnings, reflecting the increased responsibilities and compensation diversity at higher experience levels.
 
-#### Insights
+## Insights
 
 Data Analyst:
 
@@ -126,7 +126,7 @@ Senior Roles (Senior Data Scientist, Senior Data Engineer):
 - Highest variability in salaries, driven by demand for advanced expertise, leadership responsibilities, and often industry-specific requirements.
 Reflects not just seniority but also a diversity in skill sets and roles that companies value differentl.
 
-#### Data Analyst: The Best Place to Start
+## Data Analyst: The Best Place to Start
 
 Foundational skills in widely used programming languages like Python often offer a better return on investment than niche tools, even if the latter can be valuable in specific roles. Python, as one of the top-paying skills, is versatile across many data and tech roles, making it indispensable, especially when paired with other analytical tools. 
 
@@ -136,9 +136,9 @@ It’s interesting to note the pattern with Microsoft Office tools (Excel, Power
 
 The data suggests a clear action plan: prioritize deepening expertise in Python, SQL, and data visualization tools. These foundational, high-demand skills create a strong basis for many advanced roles and help position you competitively in the job market, both in terms of employability and earning potential.
 
-### The Analysis to Support the Claim
+## The Analysis to Support the Claim
 
-#### Visualize the data.
+## Visualize the data.
 
 ```python
 # Top 10 Highest Paid Skills for Data Analysts
@@ -153,7 +153,7 @@ plt.show()
 
 ![Alt text](3_Project/images/DA_Starting_Pt.png)*Two bar graphs to visualize the compensation to skill and most in-demand skills*
 
-### What the Charts indicate.
+## What the Charts indicate.
 
 Project Summary: 
 
@@ -171,9 +171,9 @@ Compensation by Skill:
 
 Skill Optimization for Data Analysts: Combining our compensation and demand data, we identified that skills such as Python, SQL, Tableau, and Power BI provide an optimal balance of high demand and competitive compensation. While tools like Excel and PowerPoint are still important, more advanced tools tend to offer a better ROI for both career growth and compensation potential.
 
-#### Optimal Skills
+## Optimal Skills
 
-### Visulize the Data
+## Visulize the Data
 
 ```python
 sns.scatterplot(
@@ -193,19 +193,36 @@ ax.xaxis.set_major_formatter(PercentFormatter(decimals=0))
 plt.tight_layout()
 plt.show()
 ```
-#### The Results
+## The Results
 
 ![Alt text](3_Project/images/Optimized_Skills.png)*Scatter plot visualizing the most optimal skills per salary*
 
-#### Key Insights:
+## Key Insights:
 Data Analyst Positioning: 
 - From our analysis where how data analysts skills relate to in terms of compensation and job oppotunities when equipped with the high-demand skills of Python, SQL, Tableau, and Excel are compensated at higher salaries then less in demand skills.
 
 - From the visualization, in a the upper right, programming and analysis tools are most sought after, and generate better salaries. AS stated previously, niche technologies, have their place, and opportunities do exist, by contrast core technologies like Python, Tableau, SQL, Excelappear frequently in job postings, making them both in-demand and essential for many roles.
 
-#### The Summary
+## The Summary
 
-- Want a great career in data analysis, learn the high-demand skills like Python, SQL, Tableau, and Excel. The visualization indicates a higher compensation and more job opportunities when equipped with these core technologies. Individuals are frequently sought after in postings and essential across many opptunities.
+- Data Analysis Career Summary: Skills, Roles, and Salaries
+Core Skills: Python, SQL, Tableau, Power BI, and Excel are essential for data analysis roles, with Python and SQL standing out for versatility and demand across the industry.
+
+Roles:
+
+- Data Analyst: Focuses on data interpretation and reporting; serves as an entry point for many data professionals.
+- Data Scientist: Incorporates machine learning and advanced analytics, offering higher compensation.
+- Data Engineer: Specializes in data infrastructure, with high earning potential due to technical demands.
+- Senior Positions: Senior Data Analysts and Data Scientists command higher salaries due to experience and expertise, where some roles surpass $400,000 annually at top levels.
+ 
+## Salaries:
+
+- Data Analyst: ~$85,000 on average.
+- Data Scientist/Data Engineer: ~$130,000 median, reflecting advanced skill requirements.
+- Senior roles: Significant salary increases, often with wide variability.
+- 
+- Conclusion:
+-  For career growth and optimal compensation in data analysis, prioritizing core skills like Python, SQL, and data visualization is essential. These skills provide flexibility and value across roles, especially when progressing toward specialized or senior positions.
 
 
 
