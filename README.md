@@ -11,8 +11,6 @@ This presentation explores key skills, roles, and salary trends in data analysis
 
 To find the most demanded skills for the top 3 most popular data roles, I filtered out those positions by which one were most often listed on job-seeker sites, then filtered for the top skills. The query highlights the job titles, the top skills, and the percentages applicable to the role as listed in the posting. 
 
-View my notebook with details here: [2_Skills_Count.ipynb](3_Project\2_Skills_Count.ipynb)
-
 ## Visualizing the data
 
 ## 2. Let's look at some code for visualizing data.
