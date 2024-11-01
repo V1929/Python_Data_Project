@@ -83,7 +83,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
 ## Results
-![Alt text](3_Project/images/BNW_Roles_Compensation.png)*Box-N-Wisker visualizing top 6 data jobs.*
+![Alt text](3_Project/images/BNW_Roles_Compensation.png)
 
 ## Insights
 When considering a career in data analysis, potential compensastion for applicable skills utilized, and longevity in the field always appreciated.
@@ -149,7 +149,7 @@ ax[1].legend().remove()
 plt.show()
 ```
 
-![Alt text](3_Project/images/DA_Starting_Pt.png)*Two bar graphs to visualize the compensation to skill and most in-demand skills*
+![Alt text](3_Project/images/DA_Starting_Pt.png)
 
 ## What the Charts indicate.
 
@@ -193,7 +193,7 @@ plt.show()
 ```
 ## The Results
 
-![Alt text](3_Project/images/Optimized_Skills.png)*Scatter plot visualizing the most optimal skills per salary*
+![Alt text](3_Project/images/Optimized_Skills.png)
 
 ## Key Insights:
 Data Analyst Positioning:
