@@ -144,7 +144,7 @@ ax[1].legend().remove()
 plt.show()
 ```
 
-![Alt text](3_Project\images\DA_Starting_Pt.png)*Two bar graphs to visualize the compensation to skill and most in-demand skills*
+![Alt text](3_Project/images/DA_Starting_Pt.png)*Two bar graphs to visualize the compensation to skill and most in-demand skills*
 
 ### What the Charts indicate.
 
