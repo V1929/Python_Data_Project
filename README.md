@@ -153,10 +153,8 @@ plt.show()
 
 ## What the Charts indicate.
 
-Project Summary: 
-
 - Data Analyst Compensation and Skill Optimization
-In this project, we aimed to identify the most lucrative and in-demand skills for data analysts, building on our analysis of skill counts and compensation across a variety of data-related roles. Using Python and visualization libraries, we created comparative graphs to bring clarity to these insights.
+The purpose of this effort is to identify the most lucrative and in-demand skills for data analysts. It builds upon the analysis of skill counts and compensation across a variety of data-related roles. Using Python and visualization libraries, we created comparative graphs to bring clarity to these insights.
 
 Key Insights:
 
@@ -197,7 +195,7 @@ plt.show()
 
 ## Key Insights:
 Data Analyst Positioning:
-•	From our analysis where how data analysts’ skills relate to in terms of compensation and job opportunities when equipped with the high-demand skills of Python, SQL, Tableau, and Excel are compensated at higher salaries then less in demand skills.
+•	From our analysis where data analysts’ skills relate to in terms of compensation and job opportunities when equipped with the high-demand skills of Python, SQL, Tableau, and Excel are compensated at higher salaries then less in demand skills.
 •	From the visualization, in the upper right, programming and analysis tools are most sought after, and generate better salaries. AS stated previously, niche technologies, have their place, and opportunities do exist, by contrast core technologies like Python, Tableau, SQL, Excelappear frequently in job postings, making them both in-demand and essential for many roles.
 ## The Summary
 Data Analysis Career Summary: Skills, Roles, and Salaries Core Skills: Python, SQL, Tableau, Power BI, and Excel are essential for data analysis roles, with Python and SQL standing out for versatility and demand across the industry.
