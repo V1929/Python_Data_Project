@@ -124,7 +124,7 @@ Data Scientists benefit from the combination of strong analytical skills, coding
 Senior Roles (Senior Data Scientist, Senior Data Engineer):
 
 - Highest variability in salaries, driven by demand for advanced expertise, leadership responsibilities, and often industry-specific requirements.
-Reflects not just seniority but also a diversity in skill sets and roles that companies value differentl.
+Reflects not just seniority but also a diversity in skill sets and roles that companies value differently.
 
 ## Data Analyst: The Best Place to Start
 
