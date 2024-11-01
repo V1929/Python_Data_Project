@@ -188,7 +188,7 @@ plt.show()
 ```
 #### The Results
 
-![Most Optimal Skills for a Data Analysts in the US](3_Project\images\Optimized_Skills.png)*Scatter plot visualizing the most optimal skills per salary*
+![ALT TEXT](3_Project\images\Optimized_Skills.png)*Scatter plot visualizing the most optimal skills per salary*
 
 #### Key Insights:
 Data Analyst Positioning: 
