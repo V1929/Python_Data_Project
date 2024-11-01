@@ -26,7 +26,7 @@ This is the sequunce of the code to present the data in the horizontal bar chart
 ### Results
 
 ## 3. The Visual
-![Alt text](skills_demand_top_5_per_role.png)
+![Alt text](3_Project/images/skills_demand_top_5_per_role.png)
 
 ### Insights
 
