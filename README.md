@@ -9,15 +9,15 @@ This presentation explores key skills, roles, and salary trends in data analysis
 
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
 
-To find the most demanded skills for the top 3 most popular data roles, I filtered out those positions by which one were most often listed on job-seeker sites, then filtered for the top skills. The query highlights the job titles, the top skills, and the percentages appicable to the role as listed in the posting. 
+To find the most demanded skills for the top 3 most popular data roles, I filtered out those positions by which one were most often listed on job-seeker sites, then filtered for the top skills. The query highlights the job titles, the top skills, and the percentages applicable to the role as listed in the posting. 
 
 View my notebook with details here: [2_Skills_Count.ipynb](3_Project\2_Skills_Count.ipynb)
 
-## Visulaizing the data
+## Visualizing the data
 
 ## 2. Let's look at some code for visualizing data.
 
-This is the sequunce of the code to present the data in the horizontal bar chart with percentages.
+This is the sequence of the code to present the data in the horizontal bar chart with percentages.
 ```python
 
     for i, job_title in enumerate(job_titles):
