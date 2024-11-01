@@ -56,7 +56,7 @@ plt.show()
 ```
 
 ### The Results Visually
-![Top Trending Skills for Data Analysts in the United States](3_Project\images\Top_Skills_Trends.png)
+![Alt text](3_Project/images/Top_Skills_Trends.png)
 
 ### Insights
 - SQL consistently has the highest demand, with over 50% likelihood in job postings. However, there's a gradual decline in demand. This might suggest a slight shift in emphasis or an increase in complementary skills.
